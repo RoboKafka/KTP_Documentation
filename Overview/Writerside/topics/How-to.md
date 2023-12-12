@@ -1,37 +1,84 @@
-# How to
+# KTP Project
+## 	To embed digital simulation tools that will increase productivity and transform it into a smart factory.
+This has been done in collaboration with WD Meats and Queen's University of Belfast as a part of the Knowledge transfer partnership program funded by the Innovate UK. 
 
-A How-to article is an action-oriented type of document.
-It explains how to perform a specific task or solve a problem, and usually contains a sequence of steps.
-Start with a short introductory paragraph that explains what users will accomplish by following this procedure,
-what they need to perform it for, or define the target audience of the doc.
-
-> **Highlight important information**
+> **Disclaimer**
 >
-> You can change the element to *tip* or *warning* by renaming the style attribute below.
+> This project report might contain pictures from the factory floor which includes blood and raw meat. Reader discretion advised. 
 >
 {style="note"}
 
-## Before you start
+## Project collaborators 
 
-It is good practice to list the prerequisites that are required or recommended.
+Alongside supervisors Andrew Schofield from NITC and Grace McGlen from WDMeats, the KTP project provided the candidate with essential resources:
 
-Make sure that:
-- First prerequisite
-- Second prerequisite
+- Technology funding: Financial support dedicated to technology acquisition or development.
+- Personal development budget: Allocated funds for training, courses, or other growth opportunities.
+- Travel budget: Funds to cover travel-related expenses for project-related activities or meetings.
 
-## How to perform a task
+## Overview
+Traditional factories, often heavily manned and characterised by non-linear flow of data and information,
+face challenges in efficiently identifying and addressing operational inefficiencies. This
+disjointed information flow can lead to bottlenecks and underutilized resources. 
 
-Some introductory information.
+Digital Simulation emerges as a transformative solution in this context, facilitating a smooth transition 
+of information and enabling a more integrated and transparent view of factory operations. This is achieved through technologies like Digital twins, real-time data processing and sensor fusion. 
+Sensors deployed all over the factory collect vast amount of data on machine performance, environmental conditions and production times.
+Identifying patterns helps industries predict potential issues, and optimize operations. 
 
-1. Step with a code block
+Depending on a factory's existing production setup, whether it's non-linear and disconnected or linear and connected, the starting point
+for automation varies. In a non-linear system, the initial focus may be integrating disparate data sources and establishing a foundational layer of connectivity. 
+The goal here is to create a coherent flow of information, which can then be leveraged for more complex simulations.
+conversely, for a linear system, the presence of a base data integration is already in place, factories can look into implementing more advanced digital simulation along with predictive analytics. 
 
-   ```bash
-    run this --that
-   ```
+This project represents an endeavor to assess the extent of automation possibilities within our production processes. By implementing data
+acquisition systems, we aim to gather detailed insights into our current operations. This data will serve as the foundation for developing digital models, which would 
+create accurate virtual models of our manufacturing environment. This will enable the senior management to make informed decisions based on concrete information and analysis, rather than relying on guesswork. 
 
-2. Step with a [link](https://www.jetbrains.com)
+## Goals and Projected Outcomes Over 24 Months
 
-3. Step with a list.
-   - List item
-   - List item
-   - List item
+
+Initial Phase
+: Complete induction and relevant training
+
+Review and documentation phase
+: Process mapping using tools to capture current processes and production layout
+
+Identify potential areas of automation 
+: Report outlining improvement opportunities and suitable automation technologies
+
+Detailed analysis and automation
+: Digital simulation of the selected area, providing insights for business case/cost analysis
+
+Support Implementation of the project
+: Successful implementation support for the automated production cell on the factory floor.
+
+Develop and document an NPI process for future production lines
+: A fully automated and embedded NPI Process for consistent application in future automation projects. 
+
+Apply the NPI process to more complex processes, validating its effectiveness and fit for the company. 
+: Presentation to management on automation solutions for complex processes and initial cost/business case review. 
+
+
+## Collaborative aspects
+
+In addition to the core objectives of the KTP project, we are actively engaging in several collaborative activities that 
+enrich the overall experience and effectiveness of the initiative.
+
+Team Meetings
+: Working with NITC engineering and simulation team along with the core team in WD meats to help assess the situation from a broad perspective. 
+- prototyping with the maintenance team at WD meats. 
+- prototyping with Andrew at NITC using Robots for Pick and Place. 
+
+Joint Workshops as a part of personal development budget
+: - Ashorne hill Chartered Institute training
+- KTP innovation strategy course
+- Udacity Nano degrees
+- Udemy training courses
+- PPMA conference
+- PLC Training courses 
+- Computer Vision and Raspberry Pi certifications
+
+Networking opportunities
+: - Working with multiple KTPs involved in multiple projects. 
+- Working with integrators alongside WD meats to deploy the solution.

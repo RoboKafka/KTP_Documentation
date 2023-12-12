@@ -24,4 +24,20 @@
         <description>Created after removal of "Starter" from Help Instance</description>
         <accepts>Starter.html</accepts>
     </rule>
+    <rule id="79a8eb52">
+        <description>Created after removal of "Substrate" from Contents</description>
+        <accepts>Substarter.html</accepts>
+    </rule>
+    <rule id="45ad6216">
+        <description>Created after removal of "Starter" from Contents</description>
+        <accepts>Starter.html</accepts>
+    </rule>
+    <rule id="61703cf9">
+        <description>Created after removal of "Tutorial_new" from Contents</description>
+        <accepts>Tutorial-new.html</accepts>
+    </rule>
+    <rule id="44afb1ef">
+        <description>Created after removal of "Section Starting Page" from Contents</description>
+        <accepts>Section-Starting-Page.html</accepts>
+    </rule>
 </rules>
