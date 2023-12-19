@@ -1,7 +1,8 @@
 # KTP Project
 ## 	To embed digital simulation tools that will increase productivity and transform it into a smart factory.
 This has been done in collaboration with WD Meats and Queen's University of Belfast as a part of the Knowledge transfer partnership program funded by the Innovate UK.
-<img src="partners_ktp.PNG" alt="Convert table to XML" width="706" border-effect="line"/>
+
+<img src="partners_ktp.PNG" alt="Convert table to XML" width="400" border-effect="line"/>
 > **Disclaimer**
 >
 > This project report might contain pictures from the factory floor which includes blood and raw meat. Reader discretion advised. 
