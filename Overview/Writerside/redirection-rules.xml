@@ -40,4 +40,12 @@
         <description>Created after removal of "Section Starting Page" from Contents</description>
         <accepts>Section-Starting-Page.html</accepts>
     </rule>
+    <rule id="3b53a9c2">
+        <description>Created after removal of "Project 3" from Contents</description>
+        <accepts>Project-3.html</accepts>
+    </rule>
+    <rule id="61cbfd07">
+        <description>Created after removal of "Smaller Wins" from Contents</description>
+        <accepts>Smaller-Wins.html</accepts>
+    </rule>
 </rules>

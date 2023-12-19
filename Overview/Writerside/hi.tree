@@ -10,11 +10,20 @@
     <toc-element topic="Overview.md">
     </toc-element>
     <toc-element topic="Tutorial.md">
-        <toc-element topic="Overview-of-the-Project.md"/>
+        <toc-element topic="Cut-Record-System.md"/>
+        <toc-element topic="Visual-Lean-counter.md"/>
+        <toc-element topic="Qrts-Age-forecaster.md"/>
+        <toc-element topic="Serial-comm-Talker.md"/>
+        <toc-element topic="Condition-Monitoring.md"/>
+        <toc-element topic="Kill-Floor-Monitor.md"/>
+        <toc-element topic="Overview-of-the-Project.md">
+        </toc-element>
     </toc-element>
     <toc-element topic="Project-2.md">
+        <toc-element topic="Gousto-Trailer-Automation.md"/>
         <toc-element topic="Overview-of-Project-2.md"/>
+        <toc-element topic="Bone-Trailer-Waste-Disposal-Automation.md"/>
+        <toc-element topic="End-of-Line-5-Automation.md"/>
     </toc-element>
-    <toc-element topic="Project-3.md"/>
     <toc-element topic="Reference.md"/>
 </instance-profile>
